@@ -6,9 +6,9 @@
 
 Hi! I'm Seneth Jayashan, a passionate developer with experience in building dynamic and responsive web applications. I enjoy solving complex problems and contributing to open source projects.
 
-* 🔭 I’m currently working on: \S JAY Web Solutions (Pvt) Ltd
-* 🌱 I’m currently learning: \MERN Stack
-* 💬 Ask me about: \Web Developing
+* 🔭 I’m currently working on: S JAY Web Solutions (Pvt) Ltd
+* 🌱 I’m currently learning: MERN Stack
+* 💬 Ask me about: Web Developing
 * 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-red)](mailto:sjayashan35@gmail.com)
  
 
