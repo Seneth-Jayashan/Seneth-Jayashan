@@ -26,9 +26,9 @@ Here are some of my notable projects:
 * [CL Towing NYC](https://cltowingnyc.com) - Business Website for CL Towing located in New York.
 * [Chrysle Tours](https://chrysletours.com) - Business Website for Chrysle Tours.
 
-* [KHB Web Application](https://github.com/S-JAY-Web-Solutions/KHB-Web-Application) - An E-commerce web application, built using MERN.
-* [Mood Meals](https://github.com/S-JAY-Web-Solutions/Mood-Meals) - A Kotlin mobile application.
-* [Pocket Pilot](https://github.com/S-JAY-Web-Solutions/Pocket-Pilot) - Mobile application for finance management.
+* [KHB Web Application](https://github.com/Seneth-Jayashan/KHB-Web-Application) - An E-commerce web application, built using MERN.
+* [Mood Meals](https://github.com/Seneth-Jayashan/Mood-Meals) - A Kotlin mobile application.
+* [Pocket Pilot](https://github.com/Seneth-Jayashan/Pocket-Pilot) - Mobile application for finance management.
 
 ## 🏆 Educations
 
@@ -36,9 +36,9 @@ Here are some of my notable projects:
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-JAY-Web-Solutions\&layout=compact\&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Seneth-Jayashan\&layout=compact\&theme=radical)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=S-JAY-Web-Solutions\&theme=radical)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Seneth-Jayashan\&theme=radical)
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
