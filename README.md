@@ -43,6 +43,7 @@ I love turning ideas into products — from backend architecture to polished fro
 
 | Project | Description | Links |
 |----------|--------------|-------|
+| 🧩 **[@onexnpm/email-sender](https://www.npmjs.com/package/@onexnpm/email-sender)** | A simple wrapper for Nodemailer to send emails, configured through .env variables. | [GitHub Repo](https://github.com/Seneth-Jayashan/email-sender) · [NPM](https://www.npmjs.com/package/@onexnpm/email-sender) |
 | 🧩 **[@onexnpm/wa-sender](https://www.npmjs.com/package/@onexnpm/wa-sender)** | Simple WhatsApp automation package built with Baileys | [GitHub Repo](https://github.com/Seneth-Jayashan/wa-sender) · [NPM](https://www.npmjs.com/package/@onexnpm/wa-sender) |
 | 🌐 [**CL Towing NYC**](https://cltowingnyc.com) | Business website for a New York towing company | [Live Site](https://cltowingnyc.com) |
 | 🌍 [**Chrysle Tours**](https://chrysletours.com) | Corporate travel agency website | [Live Site](https://chrysletours.com) |
