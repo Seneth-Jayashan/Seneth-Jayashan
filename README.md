@@ -93,8 +93,7 @@ Bachelor’s Degree in **Software Engineering**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/seneth-jayashan/)
 [![Website](https://img.shields.io/badge/Website-Visit-green)](https://sjaywebsolutions.lk)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Seneth-Jayashan)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/sjayashan)
-[![NPM](https://img.shields.io/badge/NPM-Package-red)](https://www.npmjs.com/package/@onexnpm/wa-sender)
+[![NPM](https://img.shields.io/badge/NPM-Package-red)](https://www.npmjs.com/package/@onexnpm)
 
 ---
 
